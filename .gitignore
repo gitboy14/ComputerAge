@@ -1,5 +1,6 @@
 # Blacklist everything from root of repo onwards.
 */*
+*.*
 
 # Whitelist repo files in the dir.
 !.gitignore
